@@ -48,8 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[Student Directory](https://github.com/andyrow123/student-directory) | A multiplayer general knowledge quiz game. Play [here](https://a.test.com)! | 10 days | React, Elixir, Phoenix, PostgreSQL| ExUnit, Enzyme, Sinon, Mocha, Chai
-[SpyAPI](https://github.com/spyAPI/spyAPI) | A tool for mocking API requests, to be used during the build and testing of new projects. Try it out [here](https://b.test.com). | 3 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
+[Student Directory](https://github.com/andyrow123/student-directory) | Text [here](https://a.test.com)! | 8 days | Ruby
 
 ## Experience
 
