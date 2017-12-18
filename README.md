@@ -53,7 +53,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 [MakersBnB](https://github.com/andyrow123/makersbnb) | Our first group project. | 7 days | Javascript, NodeJS, Mongoose, MongoDB| Mocha, Zombie
 [Chitter Challenge](https://github.com/andyrow123/chitter-challenge) | A twitter cone that we were asked to make. | 7 days | Ruby, Postgres, Data Mapper| Rspec
 [Bus Buddy](https://github.com/andyrow123/Bus-buddy) | An Alexa Skill that allows you to set your current bus stop, Ask for the next buses, and be advised of how long you will have to wait. | 7 days | AWS, Lambda, DynamoDB| 
-[Grocery All-Stars](https://github.com/AramSimonian/grocery_allstars) | A barcode scanning app that connects to Tesco's API and brings back product information. The purpose of the application is to reduce food wastage | 7 days | Javascript, Node, Quagga, Express| Mocha, Chai, Zombie 
+[Grocery All-Stars](https://github.com/AramSimonian/grocery_allstars) | A barcode scanning app that connects to Tesco's API and brings back product information. The purpose of the application is to reduce food wastage | 14 days | Javascript, Node, Quagga, Express| Mocha, Chai, Zombie 
 
 ## Experience
 
