@@ -6,7 +6,7 @@ I have always had a fascination for technology and how it works. From an early a
 Whether it was to solve a problem, make a process at work easier, or just to pass the time, coding has always been a big part of my life. 
 Making it a career has always been a goal and Makers Academy is another step toward that goal. 
 
-In in my previous company I demonstrated an attention to detail and the ability to meet targets. 
+In my previous company I demonstrated an attention to detail and the ability to meet targets. 
 My team oversaw multiple high profile clients, all with time sensitive needs that required an ability to problem solve under pressure. 
 
 ## Skills
@@ -94,7 +94,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 *Sales/Customer Services (August 2004 to June 2005)*
 
 - Answering incoming calls and assessing customer needs.
-- Working as part of team to achieve and exceed individual, team and departmental targets.
+- Working as part of a team to achieve and exceed individual, team and departmental targets.
 - Utilizing product knowledge to provide appropriate recommendations
 - Fulfilling orders and generating incremental revenue through fact finding, active listening, and solution selling
 ## Interests
