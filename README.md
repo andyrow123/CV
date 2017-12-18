@@ -24,9 +24,10 @@ My team oversaw multiple high profile clients, all with time sensitive needs tha
 
 #### Technologies and Principles
 
-- OOP, BDD, TDD, MVC, DDD
+- OOP, BDD, TDD, MVC, DDD, API Technologies
 - Agile/XP
-- Ruby, Rails, JavaScript, AWS, Sinatra
+- Ruby, Rails, JavaScript, AWS Lambda, Sinatra, Express
+- Mongoose, BookshelfJS, Sequelize
 - SQLite3, PostgreSQL, MongoDB, DynamoDB
 - RSpec, Jasmine, Mocha, Zombie, Chai
 
@@ -49,8 +50,10 @@ My team oversaw multiple high profile clients, all with time sensitive needs tha
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Student Directory](https://github.com/andyrow123/student-directory) | My attempt at the Student Directory weekly challenge. One of the first projects I did. A horrendously bulky app which I feel is a great representation of how I started at Makers. | 7 days | Ruby| -
-[MakersBnB](https://github.com/andyrow123/makersbnb) | Our first group project. | 7 days | Javascript, NodeJS| -
-[Chitter CHallenge](https://github.com/andyrow123/chitter-challenge) | A twitter cone that we were asked to make. | 7 days | Ruby| Rspec
+[MakersBnB](https://github.com/andyrow123/makersbnb) | Our first group project. | 7 days | Javascript, NodeJS, Mongoose, MongoDB| Mocha, Zombie
+[Chitter Challenge](https://github.com/andyrow123/chitter-challenge) | A twitter cone that we were asked to make. | 7 days | Ruby, Postgres, Data Mapper| Rspec
+[Bus Buddy](https://github.com/andyrow123/Bus-buddy) | An Alexa Skill that allows you to set your current bus stop, Ask for the next buses, and be advised of how long you will have to wait. | 7 days | AWS, Lambda, DynamoDB| 
+[Grocery All-Stars](https://github.com/AramSimonian/grocery_allstars) | A barcode scanning app that connects to Tesco's API and brings back product information. The purpose of the application is to reduce food wastage | 7 days | Javascript, Node, Quagga, Express| Mocha, Chai, Zombie 
 
 ## Experience
 
